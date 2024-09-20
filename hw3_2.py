@@ -5,7 +5,7 @@
 def print_months():
     months = ["January","February","March","April","May","June","July","August","September","October","November","December"]
     for month in months:
-        print(f'One of the months of the year is {month}')
+        pass # put your code here to print
 
 if __name__ == "__main__":
     print_months()
