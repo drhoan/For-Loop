@@ -15,4 +15,4 @@ if __name__ == "__main__":
     print(max_of_three(7, 7, 2))  # Expected output: 7
     print(max_of_three(5, 5, 5))  # Expected output: 5
     print(max_of_three(1, 2, 2))  # Expected output: 2
-    print(max_of_three(0, 0, 0))  # Expected output: 7
+    print(max_of_three(0, 0, 0))  # Expected output: 0

@@ -27,4 +27,4 @@ if __name__ == "__main__":
     print(add_numbers(5, 3))  # Expected output: 8
     print(subtract_numbers(5, 3))  # Expected output: 2
     print(multiply_numbers(5, 3))  # Expected output: 15
-    print(divide_numbers(10, 0))  # Expected output: Cannot divide by zero
+    print(divide_numbers(10, 0))  # Expected output: ZeroDivisionError
