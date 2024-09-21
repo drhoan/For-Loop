@@ -1,12 +1,7 @@
 # Define a function to return the maximum of three numbers
 def max_of_three(a, b, c):
     # TODO: Implement logic to find the largest of three numbers
-    if a >= b and a >= c:
-        return a
-    elif b >= a and b >= c:
-        return b
-    else:
-        return c
+    pass # Replace pass with your code
 
 if __name__ == "__main__":
     # Test the function

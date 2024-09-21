@@ -5,3 +5,4 @@ def test_print_hello(capsys):
     captured = capsys.readouterr()
     assert captured.out == "Hello\n"*10, f"Expected output was {'Hello\n'*10} but got {captured.out}"
     
+# To run this test, you need to type into the terminal: pytest hw3_1_test.py
